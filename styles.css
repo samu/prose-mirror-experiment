@@ -1,6 +1,5 @@
 html,
 body {
-  height: 100%;
   margin: 0px;
 }
 
@@ -9,16 +8,13 @@ body {
 }
 
 #editor {
-  height: calc(100% - 0px);
   margin: 0px;
-  overflow: scroll;
 }
 
 .Sticky-menu-bar {
   display: inline-block;
   height: 50px;
   width: 100%;
-  border: 1px solid black;
-  position: absolute;
+  border: 1px solid red;
   bottom: 0px;
 }
