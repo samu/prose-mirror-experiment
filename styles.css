@@ -11,4 +11,5 @@ body {
 #editor {
   height: calc(100% - 0px);
   margin: 0px;
+  overflow: scroll;
 }
